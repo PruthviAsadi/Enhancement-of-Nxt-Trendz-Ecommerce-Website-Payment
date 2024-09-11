@@ -1,7 +1,13 @@
-Prime User credentials
- username: rahul
- password: rahul@2021
+- Prime User credentials
 
-Non-Prime User credentials
- username: raja
- password: raja@2021
+  ```text
+   username: rahul
+   password: rahul@2021
+  ```
+
+- Non-Prime User credentials
+
+  ```text
+   username: raja
+   password: raja@2021
+  ```
